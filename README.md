@@ -8,8 +8,6 @@
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:nurkevserkadiroglu@gmail.com)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@nurkevserkadiroglu)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasan-furkan" alt="hasan-furkan" /> </p>
-
 </p>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=NurKevser&theme=buefy " alt="my github stats" width="49%"/>&nbsp;
